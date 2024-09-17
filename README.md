@@ -21,15 +21,16 @@
 [<img align="left" alt="Haikal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Haikal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
+<br>
 
 [linkedin]: https://linkedin.com/in/muhd-haikal-bin-ramli
 
 Hi there 👋  
-🔭 I’m currently working on getting AZ 900 certified
+🔭 I’m currently working on getting AZ 900 certified  
 🌱 I’m currently learning Ansible, Jenkins, and Azure  
 👯 I’m looking to collaborate on Cloud and DevOps Projects  
 🤔 I’m looking to develop my skills in cloud automation and deployment  
-💬 Ask me about Cloud Engineering, DevOps, Python, or Kubernetes 
+💬 Ask me about Cloud Engineering, DevOps, Python, or Kubernetes  
 📫 How to reach me: haikaldc@hotmail.com  
 😄 Pronouns: He / His  
 ⚡ Fun fact: I’m a cloud engineer by day and a business owner specializing in pavlova desserts by night!
