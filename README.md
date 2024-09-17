@@ -24,7 +24,6 @@
 <br>
 
 [linkedin]: https://linkedin.com/in/muhd-haikal-bin-ramli
-[instagram]: https://www.instagram.com/haikaldc/
 
 <!--
 **Haikaldc/Haikaldc** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
