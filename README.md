@@ -25,6 +25,16 @@
 
 [linkedin]: https://linkedin.com/in/muhd-haikal-bin-ramli
 
+Hi there 👋  
+🔭 I’m currently working on getting AZ 900 certified
+🌱 I’m currently learning Ansible, Jenkins, and Azure  
+👯 I’m looking to collaborate on Cloud and DevOps Projects  
+🤔 I’m looking to develop my skills in cloud automation and deployment  
+💬 Ask me about Cloud Engineering, DevOps, Python, or Kubernetes 
+📫 How to reach me: haikaldc@hotmail.com  
+😄 Pronouns: He / His  
+⚡ Fun fact: I’m a cloud engineer by day and a business owner specializing in pavlova desserts by night!
+
 <!--
 **Haikaldc/Haikaldc** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
