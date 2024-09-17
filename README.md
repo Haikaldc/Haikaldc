@@ -21,7 +21,6 @@
 [<img align="left" alt="Haikal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Haikal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
-<br>
 
 [linkedin]: https://linkedin.com/in/muhd-haikal-bin-ramli
 
