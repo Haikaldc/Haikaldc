@@ -10,7 +10,7 @@
 💬 Ask me about Cloud Engineering, DevOps, Python, or Kubernetes  
 📫 How to reach me: haikaldc@hotmail.com  
 😄 Pronouns: He / His  
-⚡ Fun fact: I’m a cloud engineer by day and a business owner specializing in pavlova desserts by night!
+⚡ Fun fact: From navigating the seas as a Marine Surveyor to exploring the heights of cloud engineering, my journey spans both the ocean depths and virtual clouds!
 
 <h2>👨‍💻 Development Projects:</h2>
 
